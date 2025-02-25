@@ -25,4 +25,3 @@ public class EmployeeModel {
         this.salary = salary;
     }
 }
-
